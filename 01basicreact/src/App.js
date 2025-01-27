@@ -1,12 +1,13 @@
 
-import Nik from './Nik'
+import Chai from "./Chai";
 
 function App() {
   return (
     <>
-    <Nik/>
+    <Chai/>
+    
     </>
-);
+  );
 }
 
 export default App;
